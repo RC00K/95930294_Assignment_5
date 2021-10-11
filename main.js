@@ -2,7 +2,7 @@
 // INF651 - Front End Web Development I
 // 11 October 2021
 
-/* Practice Assignment 5:
+/* Practice Assignment 6:
 
 Complete this javascript file according to the individual instructions
 given in the comments.
